@@ -12,7 +12,7 @@ This project is currently under development.
 
 ## 🛠️ Tech Stack
 
-* Language: C++
+* Language: C#
 
 ## ⚙️ Features (Planned)
 
